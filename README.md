@@ -112,7 +112,7 @@ python src/main.py
 ## 🔗 Links do projeto
 
 - **Repositório**: (este)
-- **Kanban (GitHub Projects)**: a preencher após criação
+- **Kanban (GitHub Projects)**: [https://github.com/users/Het0047/projects/2](https://github.com/users/Het0047/projects/2)
 - **Vídeo de apresentação (YouTube)**: a preencher pela Fase 3
 
 ---
