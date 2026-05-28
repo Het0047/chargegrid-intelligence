@@ -121,7 +121,7 @@ python src/main.py
 
 | Fase | Descrição | Responsável | Entrega |
 |---|---|---|---|
-| 1 | Kanban + estrutura inicial do repo | Herbert | em andamento |
+| 1 | Kanban + estrutura inicial do repo | Herbert | Concluído |
 | 2 | Desenvolvimento da PoC | Renan_Mano | aguardando Fase 1 |
 | 3 | Documentação, vídeo e entrega final | Biel Santos | 15/06 |
 
