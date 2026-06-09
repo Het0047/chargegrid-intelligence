@@ -98,7 +98,7 @@ python src/main.py
 
 ## 👥 Equipe
 
-| Nome | RM |
+| Nome | RM |---|
 |---|---|
 |Herbert Soares de Jesus​ - |RM| 571507 |
 |Renan Fracalossi Mano da Silva​ - |RM| 569610 |
