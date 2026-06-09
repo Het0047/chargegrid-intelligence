@@ -100,10 +100,11 @@ python src/main.py
 
 | Nome | RM | Responsabilidade na Sprint 06 |
 |---|---|---|
-| Herbert Richers | RM_______ | Fase 1 — Kanban + estrutura do repo |
-| Renan_Mano | RM_______ | Fase 2 — Núcleo da Prova de Conceito |
-| Furin | RM_______ | (a definir) |
-| Biel Santos | RM_______ | Fase 3 — Documentação, vídeo e entrega |
+|Herbert Soares de Jesus​ - RM: 571507 |
+|Renan Fracalossi Mano da Silva​ - RM: 569610 |
+|Gabriel Barbosa Furin - RM: 572941|
+| Gabriel de Almeida Santos​ - RM: 569395 |
+| Lucas Kiodi Moraca - RM: 571004 |
 
 > 📝 **TODO Herbert**: preencher os RMs reais antes da entrega final.
 
