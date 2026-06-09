@@ -102,7 +102,7 @@ python src/main.py
 |---|---|---|
 |Herbert Soares de Jesus​ - RM: 571507 |
 |Renan Fracalossi Mano da Silva​ - RM: 569610 |
-|Gabriel Barbosa Furin - RM: 572941|
+|Gabriel Barbosa Furin - |RM: | 572941|
 | Gabriel de Almeida Santos​ - RM: 569395 |
 | Lucas Kiodi Moraca - RM: 571004 |
 
