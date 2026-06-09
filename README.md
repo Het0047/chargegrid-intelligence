@@ -98,13 +98,13 @@ python src/main.py
 
 ## 👥 Equipe
 
-| Nome | RM | Responsabilidade na Sprint 06 |
-|---|---|---|
-|Herbert Soares de Jesus​ - RM: 571507 |
-|Renan Fracalossi Mano da Silva​ - RM: 569610 |
-|Gabriel Barbosa Furin - |RM: | 572941|
-| Gabriel de Almeida Santos​ - RM: 569395 |
-| Lucas Kiodi Moraca - RM: 571004 |
+| Nome | RM |
+|---|---|
+|Herbert Soares de Jesus​ - |RM| 571507 |
+|Renan Fracalossi Mano da Silva​ - |RM| 569610 |
+|Gabriel Barbosa Furin - |RM | 572941|
+| Gabriel de Almeida Santos​ - |RM| 569395 |
+| Lucas Kiodi Moraca - |RM| 571004 |
 
 > 📝 **TODO Herbert**: preencher os RMs reais antes da entrega final.
 
