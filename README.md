@@ -114,7 +114,7 @@ python src/main.py
 
 - **Repositório**: (este)
 - **Kanban (GitHub Projects)**: [https://github.com/users/Het0047/projects/2](https://github.com/users/Het0047/projects/2)
-- **Vídeo de apresentação (YouTube)**: a preencher pela Fase 3
+- **Vídeo de apresentação ([YouTube](https://www.youtube.com/watch?v=wOt41L2gDJY))**: a preencher pela Fase 3
 
 ---
 
